@@ -36,10 +36,10 @@ This is my first deployed API i made, so if you have any feedback or sugestion f
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-## API Reference
-- A continuacion se propone la documentacion para acceder a la API y a sus funcionalidades
-- The following is the proposed documentation for accessing the API and its functionalities
 
+## API Reference
+Spanish: A continuacion se propone la documentacion para acceder a la API y a sus funcionalidades  
+English: The following is the proposed documentation for accessing the API and its functionalities
  
 ### Para Factura
 
@@ -175,4 +175,5 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 ## Tech Stack
 
-**Server:** ASP.net Core 6, SQL Server 2019
+**Server:** ASP.net Core 6, SQL Server 2019  
+**Notes:** You must have installed Visual Studio 2022 or latest to run this proyect in locally thanks 
